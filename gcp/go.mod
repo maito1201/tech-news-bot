@@ -3,7 +3,7 @@ module github.com/maito1201/technewsbot/gcp
 go 1.18
 
 require (
-	github.com/maito1201/githubtrend v0.0.0-20220515064345-2407ff8f9442
+	github.com/maito1201/githubtrend v1.1.0
 	github.com/maito1201/hatebu v0.0.0-20220515065808-5d21ae9e4cfa
 )
 

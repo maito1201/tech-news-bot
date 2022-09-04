@@ -4,6 +4,8 @@ github.com/andybalholm/cascadia v1.3.1 h1:nhxRkql1kdYCc8Snf7D5/D3spOX+dBgjA6u8x0
 github.com/andybalholm/cascadia v1.3.1/go.mod h1:R4bJ1UQfqADjvDa4P6HZHLh/3OxWWEqc0Sk8XGwHqvA=
 github.com/maito1201/githubtrend v0.0.0-20220515064345-2407ff8f9442 h1:+YbK60lU+vlB4dTtFV5aIlptKY43F9oZSjT1X/j+xgI=
 github.com/maito1201/githubtrend v0.0.0-20220515064345-2407ff8f9442/go.mod h1:nEK5vzMoBrjmZ9QWaByg0x4TED/8Df9dOeUZURasi28=
+github.com/maito1201/githubtrend v1.1.0 h1:4Qik9uFSaFPQaMC3ihWgjnwHo09TEgpbqAK5B3iO5xI=
+github.com/maito1201/githubtrend v1.1.0/go.mod h1:nEK5vzMoBrjmZ9QWaByg0x4TED/8Df9dOeUZURasi28=
 github.com/maito1201/hatebu v0.0.0-20220515065808-5d21ae9e4cfa h1:l7ffMfE76V763MdjoAm+5q6UN+P8lmPnmprRsT8Gfvw=
 github.com/maito1201/hatebu v0.0.0-20220515065808-5d21ae9e4cfa/go.mod h1:dVJS3ax53qd1/GHD88cbpgYNOyflFPVgfSIGbqo7pyQ=
 golang.org/x/net v0.0.0-20210916014120-12bc252f5db8 h1:/6y1LfuqNuQdHAm0jjtPtgRcxIxjVZgm5OTu8/QhZvk=
